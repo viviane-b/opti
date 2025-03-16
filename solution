@@ -1,0 +1,13 @@
+{
+  "credentials": {
+    "teamName": "404 Brick not found",
+    "password": "wrong-health-rocky"
+  },
+  "dayNumber": 1,
+  "steps": [
+    "load truck=0 quantity=1 lego=0",
+    "move_to_customer truck=0 customer=0",
+    "deliver truck=0 quantity=1 lego=0",
+    "move_to_warehouse truck=0 warehouse=0"
+  ]
+}
